@@ -1,0 +1,6 @@
+{
+    "name": "PizzaCoin",
+    "symbol": "PIZZA",
+    "description": "This is an example token for solana.",
+    "image": "https://raw.githubusercontent.com/willvin313/coin_assets/refs/heads/main/pizza-coin-logo.png"
+}
